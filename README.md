@@ -1,4 +1,4 @@
-# manager-server
+# Manager-server
 
 Manager-server is a nodejs app with typescript
 
